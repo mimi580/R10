@@ -118,18 +118,18 @@ L1_WEIGHT           = 0.40
 L2_WEIGHT           = 0.35
 L3_WEIGHT           = 0.25
 
-CONFIDENCE_MIN      = 0.55
-TOP_CONF_MIN        = 0.65
+CONFIDENCE_MIN      = 0.75
+TOP_CONF_MIN        = 0.75
 
 # ─────────────────────────────────────────────────────────────────
 # TRADE MANAGEMENT
 # ─────────────────────────────────────────────────────────────────
 FIRST_STAKE         = 0.35
-MARTINGALE_FACTOR   = 1.89
-MARTINGALE_AFTER    = 3
-MARTINGALE_MAX_STEP = 3
+MARTINGALE_FACTOR   = 1.75
+MARTINGALE_AFTER    = 1
+MARTINGALE_MAX_STEP = 4
 
-TARGET_PROFIT       = 10.0
+TARGET_PROFIT       = 100.0
 STOP_LOSS           = 20.0
 
 COOLDOWN_MIN        = 20
