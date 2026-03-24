@@ -118,8 +118,8 @@ L1_WEIGHT           = 0.40
 L2_WEIGHT           = 0.35
 L3_WEIGHT           = 0.25
 
-CONFIDENCE_MIN      = 0.75
-TOP_CONF_MIN        = 0.75
+CONFIDENCE_MIN      = 0.53
+TOP_CONF_MIN        = 0.55
 
 # ─────────────────────────────────────────────────────────────────
 # TRADE MANAGEMENT
